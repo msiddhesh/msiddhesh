@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Siddhesh Maheshwari</h1>
+<h1 align="center">Hey 👋, I'm Siddhesh Maheshwari</h1>
 <h3 align="center">Data Science student at Chennai Mathematical Institute.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msiddhesh&label=Profile%20views&color=0e75b6&style=flat" alt="msiddhesh" /> </p>
