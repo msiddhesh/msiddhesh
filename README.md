@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Text Classification.](https://github.com/msiddhesh/Patent_Classification_MACOSX)
 
-- 🌱 I’m currently learning **NlP & Deeplearning**
+- 🌱 I’m currently learning **Finance**
 
 - 📫 How to reach me **siddheshmahesh021@gmail.com**
 
