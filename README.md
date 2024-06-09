@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=msiddhesh" alt="msiddhesh" /></a> </p>
 
-- 🔭 I’m currently working on [Text Classification.](https://github.com/msiddhesh/Patent_Classification_MACOSX)
+- 🔭 I’m currently working as an AI/Ml intern at Mahindra and Mahindra Limited.
 
-- 🌱 I’m currently learning **Finance**
+- 🌱 I’m currently learning **Finance** & **Deep Learning** 
 
 - 📫 How to reach me **siddheshmahesh021@gmail.com**
 
