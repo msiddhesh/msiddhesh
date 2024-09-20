@@ -5,10 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=msiddhesh" alt="msiddhesh" /></a> </p>
 
-- 🔭 I’m currently working as an AI/ML intern at Mahindra and Mahindra Limited.
+- 🔭 I did an AI/ML internship at Mahindra and Mahindra Limited from May 2024 to July 2024.
 
-- 🌱 I’m currently learning **Finance** & **Deep Learning** 
+- 🌱 I’m currently learning **Advance Deep Learning** 
 
+- 🧪  I’m currently Working on **MTB WGS** for predicting Drug Resistance.
+- 
 - 📫 How to reach me **siddheshmahesh021@gmail.com**
 
 - ⚡ Fun fact **I am Marwadi.....**
